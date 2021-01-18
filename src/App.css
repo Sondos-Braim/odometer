@@ -1,7 +1,15 @@
 .App {
   text-align: center;
+  color:#61dafb
 }
-
+.counter{
+  text-align: center;
+  color: rgb(122, 145, 209);
+  padding: 2%;
+}
+.main{
+  margin-left: 43%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
